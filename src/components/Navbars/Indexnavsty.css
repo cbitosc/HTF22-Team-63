@@ -1,0 +1,14 @@
+.img-responsive {
+    height: auto;
+    width: auto;
+    max-height: 80%;
+    max-width: 80%;
+}
+.title{
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 50px;
+    font-weight: bolder;
+    padding-left: 30px;
+    font-style: oblique;
+    color: darkred;
+}
